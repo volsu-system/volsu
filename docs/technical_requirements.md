@@ -49,14 +49,14 @@
 Для реализации системы предлагается следующий стек технологий:
 
 * Бэкенд:
-    - Python / JavaScript (TypeScript) 
-    - FastAPI / NodeJs
-    - PostgreSQL / ...
-    - SQLAlchemy ORM / ...
-    - Alembic для миграций / ...
+    - Python
+    - FastAPI
+    - PostgreSQL
+    - SQLAlchemy ORM
+    - Alembic для миграций
 * Фронтенд:
-    - React / Flutter  
-    - JavaScript (TypeScript) / 
+    - Flutter
+    - Dart
 
 
 # 4. Требования к дизайну
